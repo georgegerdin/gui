@@ -1,0 +1,7 @@
+[package]
+name = "game-rs"
+version = "0.1.0"
+authors = ["george"]
+
+[dependencies]
+sdl2 = "0.13"
